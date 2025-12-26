@@ -1,5 +1,4 @@
 # Weather-App
-Weather App (Python)
 
 This is a simple Python program that shows current weather details of a city using an online weather API.
 
