@@ -73,3 +73,6 @@ Future Improvements
 - Add error handling
 - Add weather forecast
 - Create GUI or web version
+---------------------------------------------------
+## output
+ [weather app output](screenshots/output.png)
